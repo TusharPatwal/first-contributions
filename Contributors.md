@@ -66,6 +66,7 @@
 - [Luiz Carlos Jr] (https://github.com/lcsjunior)
 - [Rifky Maulana] (https://github.com/Rifkymaulana)
 - [Dev Abhiram] (https://github.com/Dev-29)
+- [Tushar Patwal] (https://github.com/TusharPatwal)
 - [Dibyajyoti Ganguly] (https://github.com/Dibyajyoti2002)
 - [Himtome1] (https://github.com/Himtome1))
 - [Derp] (https://github.com/DDeerrpp)
